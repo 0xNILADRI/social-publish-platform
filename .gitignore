@@ -13,3 +13,6 @@ bun.lockb
 # environment variables
 .env
 wrangler.toml
+
+# migration folder
+migrations
